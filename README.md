@@ -32,7 +32,8 @@ ____
 
 
 <p align="left>
-<a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="65" height="65"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="65" height="65"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="65" height="65"/> </a>
+<a href="https://es.react.dev/" target="_blank"> <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" alt="React" width="65" height="65"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="65" height="65"/> </a>
 </p>
 
 
@@ -49,9 +50,7 @@ _____
 
 ##### Database
 <p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
-<a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kv2nhs54xuyb0x68s-DB_Illustration.svg?auto=format%252Ccompress" alt="mongodb" width="65" height="65"/> </a>
  </p>
 
 
@@ -70,9 +69,9 @@ _____
 
 
 
-|  fullstack-chat  | rockPaperScissors  | toDoSimple  |
+|  fullstack-chat  | JournalApp  | toDoSimple  |
 |---|---|---|
-| <a href="https://github.com/johinner/fullstack-chat" target="_blank"> <img src="https://res.cloudinary.com/de1pckiem/image/upload/v1694385692/Projects/shgowk0ss5rwr9cx85op.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+| <a href="https://github.com/johinner/fullstack-chat" target="_blank"> <img src="https://res.cloudinary.com/de1pckiem/image/upload/v1694385692/Projects/shgowk0ss5rwr9cx85op.png" width="250" height="200"/></a> |  <a href="https://github.com/johinner/JournalApp" target="_blank"> <img src="https://res.cloudinary.com/de1pckiem/image/upload/v1694387137/Projects/z0jfddwrna62xjtask7m.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
 
 
 
@@ -83,11 +82,9 @@ _____
 
 
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/carlossalvadordiaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/carlossalvadordiaz" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/johinner-madariaga-corpas-aa2575184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
 
 
-<a href="https://linkedin.com/in/carlos-salvador-513a7b122/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlos salvador díaz" height="30" width="40" />linkedin</a>
-
-
-<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />csalvadordiaz689@gmail.com</a>
+<a href="mailto:johimadacor@live.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />johimadacor@live.com</a>
 </p>
